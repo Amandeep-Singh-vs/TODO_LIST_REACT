@@ -3,8 +3,11 @@ The project is an assignment for VectoScalar Technologies Private Limited.
 
 ## Functionalities : 
 A) User can add new task.
+
 B) User can edit a task.
+
 C) User can delete a task.
+
 D) User can complete the task by marking it.
 
 ## Project Demo
